@@ -1,0 +1,11 @@
+C:\Users\Jessica L\Projects\HelloWorld\AppLogger\bin\Debug\net10.0\AppLogger.deps.json
+C:\Users\Jessica L\Projects\HelloWorld\AppLogger\bin\Debug\net10.0\AppLogger.dll
+C:\Users\Jessica L\Projects\HelloWorld\AppLogger\bin\Debug\net10.0\AppLogger.pdb
+C:\Users\Jessica L\Projects\HelloWorld\AppLogger\obj\Debug\net10.0\AppLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica L\Projects\HelloWorld\AppLogger\obj\Debug\net10.0\AppLogger.AssemblyInfoInputs.cache
+C:\Users\Jessica L\Projects\HelloWorld\AppLogger\obj\Debug\net10.0\AppLogger.AssemblyInfo.cs
+C:\Users\Jessica L\Projects\HelloWorld\AppLogger\obj\Debug\net10.0\AppLogger.csproj.CoreCompileInputs.cache
+C:\Users\Jessica L\Projects\HelloWorld\AppLogger\obj\Debug\net10.0\AppLogger.dll
+C:\Users\Jessica L\Projects\HelloWorld\AppLogger\obj\Debug\net10.0\refint\AppLogger.dll
+C:\Users\Jessica L\Projects\HelloWorld\AppLogger\obj\Debug\net10.0\AppLogger.pdb
+C:\Users\Jessica L\Projects\HelloWorld\AppLogger\obj\Debug\net10.0\ref\AppLogger.dll

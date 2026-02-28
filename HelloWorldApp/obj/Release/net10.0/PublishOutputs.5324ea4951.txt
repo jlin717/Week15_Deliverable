@@ -1,0 +1,5 @@
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\bin\Release\net10.0\publish\HelloWorldApp.exe
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\bin\Release\net10.0\publish\HelloWorldApp.dll
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\bin\Release\net10.0\publish\HelloWorldApp.deps.json
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\bin\Release\net10.0\publish\HelloWorldApp.runtimeconfig.json
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\bin\Release\net10.0\publish\HelloWorldApp.pdb

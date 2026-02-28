@@ -1,0 +1,17 @@
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\bin\Debug\net10.0\Nuget.Quickstart.exe
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\bin\Debug\net10.0\Nuget.Quickstart.deps.json
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\bin\Debug\net10.0\Nuget.Quickstart.runtimeconfig.json
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\bin\Debug\net10.0\Nuget.Quickstart.dll
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\bin\Debug\net10.0\Nuget.Quickstart.pdb
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\obj\Debug\net10.0\Nuget.Quickstart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\obj\Debug\net10.0\Nuget.Quickstart.AssemblyInfoInputs.cache
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\obj\Debug\net10.0\Nuget.Quickstart.AssemblyInfo.cs
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\obj\Debug\net10.0\Nuget.Quickstart.csproj.CoreCompileInputs.cache
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\obj\Debug\net10.0\Nuget.Quickstart.dll
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\obj\Debug\net10.0\refint\Nuget.Quickstart.dll
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\obj\Debug\net10.0\Nuget.Quickstart.pdb
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\obj\Debug\net10.0\Nuget.Quickstart.genruntimeconfig.cache
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\obj\Debug\net10.0\ref\Nuget.Quickstart.dll
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\obj\Debug\net10.0\Nuget.Quickstart.csproj.AssemblyReference.cache
+C:\Users\Jessica L\Projects\HelloWorld\Nuget.Quickstart\obj\Debug\net10.0\Nuget.Qu.F21E4CAF.Up2Date

@@ -1,0 +1,11 @@
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\ClassLibraryProjects\StringLibrary\bin\Release\net10.0\StringLibrary.deps.json
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\ClassLibraryProjects\StringLibrary\bin\Release\net10.0\StringLibrary.dll
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\ClassLibraryProjects\StringLibrary\bin\Release\net10.0\StringLibrary.pdb
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\StringLibrary.AssemblyInfo.cs
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\StringLibrary.dll
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\refint\StringLibrary.dll
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\StringLibrary.pdb
+C:\Users\Jessica L\Projects\HelloWorld\HelloWorldApp\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\ref\StringLibrary.dll

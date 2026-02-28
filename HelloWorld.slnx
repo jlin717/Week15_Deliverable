@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/HelloWorldApp/" />
+  <Folder Name="/HelloWorldApp/ClassLibraryProjects/">
+    <Project Path="HelloWorldApp/ClassLibraryProjects/StringLibrary/StringLibrary.csproj" />
+  </Folder>
+  <Project Path="ShowCase/ShowCase.csproj" />
+  <Project Path="StringLibraryTest/StringLibraryTest.csproj" />
+</Solution>
